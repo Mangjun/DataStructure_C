@@ -11,3 +11,4 @@
 | 4 | 스택 | [Chap04](https://github.com/Mangjun/DataStructure_C/tree/main/Chap04) |
 | 5 | 큐 | [Chap05](https://github.com/Mangjun/DataStructure_C/tree/main/Chap05) |
 | 6 | 연결리스트1 | [Chap06](https://github.com/Mangjun/DataStructure_C/tree/main/Chap06) |
+| 7 | 연결리스트2 | [Chap07](https://github.com/Mangjun/DataStructure_C/tree/main/Chap07) |
